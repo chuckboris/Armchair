@@ -9,6 +9,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "Armchair", path: "Source")
+        .target(name: "Armchair")
     ]
 )
